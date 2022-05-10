@@ -13,5 +13,5 @@ SI NO ME CREÉIS QUE SE PROGRAMAR MIRAD ESTO
 ``PRINT("HOLA")``
 
 ## Contacto
-Puedes contactarme a través de este enlance: [Link](https://github.com/google)
+Puedes contactarme a través de este enlance: <a href="https://github.com/google" target="_blank">Link</a>
 #### ADVERTENCIA: Ten cuidado al clickear en el link
