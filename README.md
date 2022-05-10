@@ -1,16 +1,17 @@
-### Hi there 👋
+### ¿HOLA?
+Bienvenido este es el perfil de BotatoGamerBestDeveloper3001 mejor conocido como el hombre  
+que rompió internet o conocido como Botato.
 
-<!--
-**Botato300/Botato300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conocimientos
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+SI NO ME CREÉIS QUE SE PROGRAMAR MIRAD ESTO  
+``PRINT("HOLA")``
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+Puedes contactarme a través de este enlance: [Link](https://github.com/google)
+#### ADVERTENCIA: Ten cuidado al clickear en el link
