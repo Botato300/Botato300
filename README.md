@@ -1,6 +1,5 @@
 ### ¿HOLA?
-Bienvenido este es el perfil de BotatoGamerBestDeveloper3001 o mejor conocido como Botato  
-o Votati o VotatiDeveloperGamer123
+Bienvenido?
 
 ## Conocimientos
 - CMASMAS
@@ -8,6 +7,8 @@ o Votati o VotatiDeveloperGamer123
 - HTML
 - CSS
 - JavaScript
+- PE ACHE PE
+- Y MAS PERO ME OLVIDE
 
 ## Contacto
 Puedes contactarme a través de este enlance: <a href="https://github.com/Botato300" target="_blank">Link</a>
