@@ -1,1 +1,1 @@
-<a href="#hola">HOLA?</a>
+<span onclick="alert('HOLA?')">HOLA?</span>
