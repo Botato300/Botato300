@@ -21,8 +21,8 @@
 </div>
 
 <p align="middle">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botato300&hide_progress=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true"> 
   <img height="200" src="https://nirzak-streak-stats.vercel.app?user=botato300&theme=onedark&hide_border=true&border_radius=10&card_width=540&hide_longest_streak=true">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botato300&hide_progress=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true"> 
 </p>
 
 <picture>
