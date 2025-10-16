@@ -21,7 +21,7 @@ jobs:
     
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@a69d1dbca7a94c2ef0edf10dcd9e19982d74dd39
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -30,7 +30,7 @@ jobs:
           
           
       - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd
         with:
           target_branch: output
           build_dir: dist
