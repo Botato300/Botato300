@@ -21,8 +21,8 @@
 
 <p align="middle">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Botato300/Botato300/blob/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Botato300/Botato300/blob/output/snake.svg" />
-    <img alt="Gráficos de contribuciones hechas durante el año" src="https://github.com/Botato300/Botato300/blob/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Botato300/Botato300/blob/main/game.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Botato300/Botato300/blob/main/game.gif" />
+    <img alt="Gráficos de contribuciones hechas durante el año" src="https://github.com/Botato300/Botato300/blob/main/game.gif" />
   </picture>
 </p>
