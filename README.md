@@ -16,7 +16,7 @@
   
   <p>I usually work on my personal projects or contribute to open source</p>
   
-  <p align="middle"><i>that's all!</i></p>
+  <p align="middle"><i>that's all! :shipit:</i></p>
 </div>
 
 <p align="middle">
