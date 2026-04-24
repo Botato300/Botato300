@@ -12,7 +12,7 @@
 
 <div align="center">
   <img align="center" src="https://github.com/user-attachments/assets/f3475901-4068-4f59-86e1-405c7a38748c" width="50" height="50"> 
-  <b>Software Developer & Web Developer</b>
+  <b>Software Developer & Fullstack Developer</b>
   
   <p>I usually work on my personal projects or contribute to open source</p>
   
