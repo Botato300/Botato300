@@ -2,7 +2,6 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>
-        <!-- <img align="center" width="80" src="https://github.com/user-attachments/assets/2fbe7095-7689-44aa-b7c1-e71714c012f7"> -->
         <img width="80" height="51" align="center" alt="GIF de un emoji saludando" src="https://github.com/user-attachments/assets/68e1c1bb-9483-4b9d-99c7-3d46900ba985">  
         Hi, I'm Botato300
       </h1>
