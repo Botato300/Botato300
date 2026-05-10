@@ -2,8 +2,9 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>
-        <img align="center" width="80" src="https://github.com/user-attachments/assets/2fbe7095-7689-44aa-b7c1-e71714c012f7">
-        Hi, I'm Botato300  
+        <!-- <img align="center" width="80" src="https://github.com/user-attachments/assets/2fbe7095-7689-44aa-b7c1-e71714c012f7"> -->
+        <img width="80" height="51" align="center" alt="GIF de un emoji saludando" src="https://github.com/user-attachments/assets/68e1c1bb-9483-4b9d-99c7-3d46900ba985">  
+        Hi, I'm Botato300
       </h1>
     </summary>
   </ul>
@@ -11,7 +12,8 @@
 
 
 <div align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/f3475901-4068-4f59-86e1-405c7a38748c" width="50" height="50"> 
+  <img width="80" height="58" alt="GIF de un emoji usando la computadora" align="center"  src="https://github.com/user-attachments/assets/05fe0b44-2f68-4146-92cf-2abc30003208">
+
   <b>Software Developer & Fullstack Developer</b>
   
   <p>I usually work on my personal projects or contribute to open source</p>
