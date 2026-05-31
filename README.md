@@ -3,7 +3,7 @@
     <summary>
       <h1>
         <img width="80" height="51" align="center" alt="GIF de un emoji saludando" src="https://github.com/user-attachments/assets/68e1c1bb-9483-4b9d-99c7-3d46900ba985">  
-        Hi, I'm Botato300
+        Hi, I'm Tomás Bottari
       </h1>
     </summary>
   </ul>
